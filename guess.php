@@ -25,3 +25,9 @@ echo "Congratulations - You are right";
 }
 }
 else
+{
+echo "Missing guess parameter <br> Your guess is too short";
+}
+?>
+</body>
+</html>
